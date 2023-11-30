@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-style: italic;
+  font-family: 'Roboto';
+}
+.image {
+  width: 400px;
+}
+.var-speed {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.max-min {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.btn-container {
+  margin-top: 24px;
+}
+.button {
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 500;
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-right: 14px;
+  cursor: pointer;
+  outline: none;
+}
+.acc-btn {
+  background-color: #0b69ff;
+  color: #cbd5e1;
+  border: none;
+}
+.app-btn {
+  background-color: transparent;
+  border: 2px solid #94a3b8;
+  color: #94a3b8;
+}
